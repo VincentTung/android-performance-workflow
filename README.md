@@ -178,11 +178,6 @@ android-performance-workflow/
 - [录制与回归规则](references/recording-and-regression.md)：采样有效性、统计口径和对照要求。
 - [VALIDATION.md](VALIDATION.md)：维护者的结构检查与行为验收案例。案例是验收要求，不代表所有 agent 都已验证通过。
 
-## 贡献
-
-欢迎通过 issue 或 PR 提交问题与改进。请说明使用的 agent、Android/Compose 版本、复现步骤和预期行为。
-
-贡献应保持通用性，不写死某个 App 的包名、操作坐标、设备 serial 或个人工具路径。提交日志、trace 或截图前，请移除令牌、账号、个人数据和项目私密信息，尽量提供最小可复现案例。
 
 ## 许可证与上游
 
